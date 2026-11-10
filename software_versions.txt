@@ -1,0 +1,29 @@
+CNmimicry software versions
+Recorded: 2026-10-11
+
+Scope
+Installed R and directly referenced packages for the core workflow, analyses,
+and figure/table builders. Transitive dependencies are not listed.
+This file lists the R and package versions installed when the record was created.
+
+Runtime
+R: 4.4.0 (2024-04-24 ucrt)
+Platform: x86_64-w64-mingw32
+Operating system: Windows 10 x64 (as reported by R)
+
+Package versions
+IlluminaHumanMethylation450kanno.ilmn12.hg19: 0.6.1
+SummarizedExperiment: 1.34.0
+TCGAbiolinks: 2.32.0
+dplyr: 1.1.4
+grDevices: 4.4.0
+minfi: 1.50.0
+openxlsx: 4.2.8.1
+openxlsx2: 1.26
+purrr: 1.0.2
+readr: 2.1.5
+stats: 4.4.0
+survival: 3.5-8
+tibble: 3.2.1
+tidyr: 1.3.1
+utils: 4.4.0

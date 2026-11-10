@@ -1,0 +1,41 @@
+# Downloaded data and resources
+GDCdata/
+**/GDCdata/
+resources/
+
+# Caches and generated results
+cache/
+**/cache/
+**/outputs/
+results*/
+excel/
+**/archive/
+
+# Figures, tables and builders (not part of this repository)
+plots/
+*.pdf
+*.png
+*.svg
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.gz
+*.zip
+*.rds
+*.RData
+*.rda
+
+# Local backups and notes
+Code backups/
+
+# R and RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
